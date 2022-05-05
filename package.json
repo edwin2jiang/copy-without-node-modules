@@ -1,0 +1,21 @@
+{
+  "name": "copy-without-node-modules",
+  "version": "1.0.0",
+  "description": "it allow user to quick copy a project without node_modules",
+  "main": "index.js",
+  "scripts": {
+  },
+  "bin": {
+    "copyit": "bin/copyit.js"
+  },
+  "keywords": [
+    "copy",
+    "node_modules",
+    "quicker"
+  ],
+  "author": "edwin jiang",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.1.0"
+  }
+}
