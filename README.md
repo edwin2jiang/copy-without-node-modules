@@ -33,4 +33,4 @@ copyit project-name
 
 Give a ⭐️ if this project helped you!
 
-***
+If you find any problem, please go to github and raise a new issue. [Github Issue](https://github.com/xia-2/copy-without-node-modules/issues)
