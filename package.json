@@ -1,6 +1,6 @@
 {
   "name": "copy-without-node-modules",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "it allow user to quick copy a project without node_modules",
   "main": "index.js",
   "scripts": {
